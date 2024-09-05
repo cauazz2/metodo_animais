@@ -1,0 +1,11 @@
+>> Anotações 
+
+Referente a privade dos metódos com sinais :
++ Public
+- Private
+# Protected
+
+
+Referente aos Construtores :
+O metódo construtor possui o mesmo nome da classe.
+Construtor permite a instância sem fornecer dados inicias.
